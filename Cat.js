@@ -2,4 +2,4 @@ function Cat() {
 
 }
 
-module.exports = Cat;
+export default Cat;
